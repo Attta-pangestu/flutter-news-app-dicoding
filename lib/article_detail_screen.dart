@@ -42,7 +42,7 @@ class ArticleDetailPage extends StatelessWidget {
                     const Divider(color: Colors.grey),
                     Text(article.content, style: const TextStyle(fontSize: 16)),
                     const SizedBox(
-                      height: 10, d
+                      height: 10, 
                     ),
                     ElevatedButton(
                         onPressed: () {
